@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image : umansh/note-app:tagname:latest
+     image : umansh/note-app:latest
      ports :
          - "8000:8000"
